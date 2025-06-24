@@ -1,6 +1,6 @@
 --[[ read me NOW!!!
 
-this was leaked with permission from ShownApe, aka the one who found the original limb reanimate
+this was leaked with permission from ShownApe and also permission from the one who gave me it, aka kampachii, aka the one who found the original limb reanimate
 this is a variant of the original method which works the same way
 
 you might be wondering why it got leaked:
